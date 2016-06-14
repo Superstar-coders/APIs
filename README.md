@@ -1,22 +1,32 @@
-# Web APIs.
+#Git and GitHub Workshop
 
-*10am-5pm, 13-17 June 2016*
+![imgres](https://cloud.githubusercontent.com/assets/2573931/15968910/93a9fd2e-2f25-11e6-9d6f-8c114ca97437.png)
 
-[![Join the chat at https://gitter.im/FAC-QMUL/APIs](https://badges.gitter.im/FAC-QMUL/APIs.svg)](https://gitter.im/FAC-QMUL/APIs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## What
 
-During this five day course you will get an introduction to GitHub and the command Line and to publishing web pages using GitHub Pages. Debugging with Chrome DevTools, Postman and CodePen. How to use JavaScript to access remote data from a Web page. Explanation of all the acronyms: APIs, REST, AJAX, DOM, HTTP, XHR, and JSON. Exploration of a number of APIs, including Google, TfL, and Reddit. Introduction to data visualisation with D3.
+Our friend and FAC5 alumnus @jackpandas is a smart guy - we call him Dr Jack, but his students call him Dr McDonald. Or just Jack.
 
-[Recommended pre-course study](https://github.com/foundersandcoders/courses/blob/master/qmul.md)
+Anyway, as smart as Jack is, he's pretty crap at writing the JavaScripts - and he needs our help. He's created a little web app to help him keep track of his workouts, but the problem is that if you look at his code you might throw up or get turned instantly to stone.
 
-# Schedule  
-## Monday  
-- **10:00 - 11:00** Introduction & Course Overview  
-- **11:00 - 13:00** Github workshop  
-- **13:00 - 14:00 Lunch**  
-- **14:00 - 16:30** Introduction to HTML, CSS & GitHub Pages  
-- **16:30 - 17:00** Upload to GH Pages  
-  
-## Tuesday  
-- **10:00 - 13:00** [Form workshop](https://github.com/FAC-QMUL/APIs/tree/master/GitHub-workshop) 
-- **13:00 - 14:00 Lunch**  
-- **14:00 - 17:00** Introduction to JavaScript  
+Your mission, in your new teams, is to take Jack's best efforts at coding and turn it into something that doesn't make you sick.
+
+## Why
+
+We want you to get used to working in teams and using GitHub, so this is a gentle intro to get you in the mood for the afternoon, when you will be designing, coding, and presenting your very first app.
+
+## How
+
+1. Fork this repo into your team organisation and create a new repo if you don't have one yet.
+2. Split into pairs and plan your work.
+3. Create issues on GitHub. Remember to link your issues on your commits.
+4. Working together and constantly communicating, split the html, css, and js from crapper.html
+6. Then make your fixes
+7. Then push your new files up to github using git push origin <branchName>
+8. Then create a pull request and ask the other pair to merge it - DO NOT COMMIT DIRECTLY TO THE MASTER BRANCH OR AN ANGEL WILL DIE
+9. Once both pairs have had their fixes merged, you're done.
+
+## Stretch goals
++ Improve the CSS
+
+### Slides
+[Git and GitHub crash course](http://www.slideshare.net/MireiaSangalo/git-and-github-crash-course)
