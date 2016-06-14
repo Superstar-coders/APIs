@@ -24,5 +24,6 @@ console.log("{Intensity: "+intInput+"}");
 console.log("{Enjoyment: "+enjInput+"}");
 console.log("{Length: "+lenInput.value+"}");
 console.log("{Notes: "+noteInput.value+"}");
-console.log("{Injuries: "+injInput.value+"}");
+console.log("{Injuries: "+injInput.value+"}")
+;
 console.log("{Goals: "+goalInput.value+"}")})
